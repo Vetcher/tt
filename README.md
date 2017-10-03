@@ -10,6 +10,19 @@ Time-tracker 1.0
 Tracker works for 22:52:47 | 0h 0m 3s
 ```
 
+You can write some text before log, so it will be displayed in terminal.
+Example:
+```
+Time-tracker 1.0
+23:13:27 | 0h 0m 0s eat twix
+23:13:59 | 0h 0m 32s think
+23:14:51 | 0h 0m 52s think again
+23:15:21 | 0h 0m 30s fix mistake
+23:15:35 | 0h 0m 14s 
+23:15:37 | 0h 0m 1s 
+Tracker works for 0h 2m 10s
+```
+
 ## Install
 ```
 go get github.com/vetcher/tt

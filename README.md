@@ -9,3 +9,13 @@ Time-tracker 1.0
 22:52:47 | 0h 0m 3s
 Tracker works for 22:52:47 | 0h 0m 3s
 ```
+
+## Install
+```
+go get github.com/vetcher/tt
+```
+
+## Run
+```
+$ tt
+```
